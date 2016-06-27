@@ -1,0 +1,28 @@
+item.DirtPickaxe.name=Dirt Pickaxe
+item.DirtSpade.name=Dirt Spade
+item.DirtSword.name=Dirt Sword
+item.DirtHoe.name=Dirt Hoe
+item.DirtAxe.name=Dirt Axe
+
+itemGroup.tabDirtMod=Dirt Tools Mod
+itemGroup.tabGravelMod=Gravel Tools Mod
+itemGroup.tabSandMod=Sand Tools Mod
+itemGroup.tabNetherMod=Nether Tools Mod
+
+item.GravelPickaxe.name=Gravel Pickaxe
+item.GravelAxe.name=Gravel Axe
+item.GravelSpade.name=Gravel Spade
+item.GravelSword.name=Gravel Sword
+item.GravelHoe.name=Gravel Hoe
+
+item.SandPickaxe.name=Sand Pickaxe
+item.SandAxe.name=Sand Axe
+item.SandSpade.name=Sand Spade
+item.SandSword.name=Sand Sword
+item.SandHoe.name=Sand Hoe
+
+item.NetherPickaxe.name=Nether Pickaxe
+item.NetherAxe.name=Nether Axe
+item.NetherSpade.name=Nether Spade
+item.NetherSword.name=Nether Sword
+item.NetherHoe.name=Nether Hoe
